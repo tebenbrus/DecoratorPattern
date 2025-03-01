@@ -30,7 +30,7 @@ BankAcountDecorator must be an interface.
 
 Follow instructions.  You are not allowed to insert other methods except what is stated in the diagram (setters and getters are allowed).
 
-##UML DIAGRAM
+## UML DIAGRAM
 ![UML ASSIGNMENT 10](https://github.com/tebenbrus/DecoratorPattern/assets/114350433/6b399bd4-941d-4436-8b9a-a7ea39e041ea)
 
 
